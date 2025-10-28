@@ -1,0 +1,9 @@
+ISBN numarası|Kitap adı|Yazar adı|Türü|Sayfa Sayısı
+9786051857427|Simyacı|Paulo Coelho|Roman|184
+9789750812989|Kürk Mantolu Madonna|Sabahattin Ali|Roman|160
+9786053321452|Nutuk|Mustafa Kemal Atatürk|Tarih|600
+9789753638020|Suç ve Ceza|Fyodor Dostoyevski|Klasik|670
+9789754700114|Sefiller|Victor Hugo|Klasik|1232
+9786254490124|Hayvan Çiftliği|George Orwell|Distopya|152
+9789750738609|1984|George Orwell|Distopya|352
+9789750719387|Tutunamayanlar|Oğuz Atay|Roman|724
